@@ -1,0 +1,4 @@
+baseURL = 'https://pattakosn.github.io/'
+languageCode = 'en-us'
+title = '/dev/patman'
+theme = 'hugo-coder'
