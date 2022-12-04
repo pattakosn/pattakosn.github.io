@@ -1,4 +1,32 @@
 baseURL = 'https://pattakosn.github.io/'
 languageCode = 'en-us'
+defaultcontentlanguage = "en-us"
 title = '/dev/patman'
 theme = 'hugo-coder'
+copyright = 'CC0 1.0'
+paginate = 20
+
+[params]
+  author = "Nikolas Pattakos"
+  info = ["GNU", "Linux"]
+  description = "Nikolas Pattakos notes"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/Nikolas Pattakos.jpg"
+  gravatar = "pattakosn@yahoo.com"
+  since = 2022
+  enableTwemoji = true
+  colorScheme = "dark"
+  hidecolorschemetoggle = false
+  timeZone = "Europe/Paris"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/pattakosn/"
+
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
