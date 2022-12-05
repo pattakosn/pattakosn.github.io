@@ -3,30 +3,58 @@ languageCode = 'en-us'
 defaultcontentlanguage = "en-us"
 title = '/dev/patman'
 theme = 'hugo-coder'
-copyright = 'CC0 1.0'
 paginate = 20
+#pygmentsStyle = "bw"
+#pygmentsCodeFences = true
+#pygmentsCodeFencesGuessSyntax = true
+#enableEmoji = true
+# Enable Disqus comments
+# disqusShortname = "yourdiscussshortname"
 
 [params]
-  author = "Nikolas Pattakos"
-  info = ["GNU", "Linux"]
-  description = "Nikolas Pattakos notes"
-  keywords = "blog,developer,personal"
-  avatarurl = "images/Nikolas Pattakos.jpg"
-  gravatar = "pattakosn@yahoo.com"
+  author = 'Nikolas Pattakos'
+  license = '<a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>'
+  info = [' И3ЯD  -  &33k', 'thoughts and notes']
+  description = 'Nikolas Pattakos notes'
+  keywords = 'blog,developer,personal,opnions,notes'
+  avatarurl = 'images/Nikolas Pattakos.jpg'
+  gravatar = 'pattakosn@yahoo.com'
   since = 2022
   enableTwemoji = true
-  colorScheme = "dark"
+  colorScheme = 'dark'
   hidecolorschemetoggle = false
   timeZone = "Europe/Paris"
+  dateFormat = "2 January, 2006"
 
-# Social links
 [[params.social]]
-  name = "Github"
-  icon = "fa fa-github fa-2x"
+  name = "LinkedIn"
+  icon = "fa fa-2x fa-linkedin"
   weight = 1
-  url = "https://github.com/pattakosn/"
+  url = "https://www.linkedin.com/in/nikolaspattakos/"
+[[params.social]]
+  name = 'Github'
+  icon = 'fa fa-github fa-2x'
+  weight = 2
+  url = 'https://github.com/pattakosn/'
+[[params.social]]
+  name = "RSS"
+  icon = "fa fa-2x fa-rss"
+  weight = 3
+  url = "https://pattakosn.github.io"
+  rel = "alternate"
+  type = "application/rss+xml"
+
+#[taxonomies]
+#  category = "categories"
+#  series = "series"
+#  tag = "tags"
+#  author = "authors"
 
 [[menu.main]]
-  name = "About"
+  name = 'Blog'
   weight = 1
-  url = "about/"
+  url = 'blog/'
+[[menu.main]]
+  name = 'About'
+  weight = 2
+  url = 'about/'
