@@ -3,7 +3,8 @@ languageCode = 'en-us'
 defaultcontentlanguage = "en-us"
 title = '/dev/patman'
 theme = 'hugo-coder'
-paginate = 20
+[pagination]
+pagerSize = 20
 #pygmentsStyle = "bw"
 #pygmentsCodeFences = true
 #pygmentsCodeFencesGuessSyntax = true
