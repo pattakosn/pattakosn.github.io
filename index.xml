@@ -1,3 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>/dev/patman</title><link>https://pattakosn.github.io/</link><description>Recent content on /dev/patman</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://pattakosn.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Nikolas Pattakos' personal e-corner</title><link>https://pattakosn.github.io/about/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate><guid>https://pattakosn.github.io/about/</guid><description>Welcome! Link to heading One more developer&amp;rsquo;s personal webpage / blog. Yes, I know, they are a dime a dozen :) .
-It serves mostly for my own note taking/documentation. It would be nice if some of its content was also useful to some people.
-I have been a long time free software and linux enthousiast, fascinated by computer programming. Any comment is appreciated and welcomed, please feel free to contact me.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>/dev/patman</title><link>https://pattakosn.github.io/</link><description>Recent content on /dev/patman</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pattakosn.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Nikolas Pattakos' e-corner</title><link>https://pattakosn.github.io/about/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate><guid>https://pattakosn.github.io/about/</guid><description>&lt;h1 id="welcome">
+ Welcome!
+ &lt;a class="heading-link" href="#welcome">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;p>One more developer&amp;rsquo;s personal webpage / blog.
+Yes, I know, they are a dime a dozen :) .&lt;/p>
+&lt;p>It serves mostly for my own note taking/documentation.
+It would be nice if some of its content was also useful to some people.&lt;/p>
+&lt;p>I have been a long time free software and linux enthousiast, fascinated by computer programming.
+Any comment is appreciated and welcomed, please feel free to contact me.&lt;/p></description></item></channel></rss>
