@@ -1,5 +1,5 @@
 +++
-title = "Nikolas Pattakos' personal e-corner"
+title = "Nikolas Pattakos' e-corner"
 description = "about me"
 date = "2022-12-01"
 aliases = ["about", "about-pattakosn"]

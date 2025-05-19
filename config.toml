@@ -17,7 +17,7 @@ pagerSize = 20
   license = '<a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>'
   info = [' И3ЯD  -  &33k', 'thoughts and notes']
   description = 'Nikolas Pattakos notes'
-  keywords = 'blog,developer,personal,opnions,notes'
+  keywords = 'blog,developer,personal,opinions,notes'
   avatarurl = 'images/Nikolas Pattakos.jpg'
   gravatar = 'pattakosn@yahoo.com'
   since = 2022
